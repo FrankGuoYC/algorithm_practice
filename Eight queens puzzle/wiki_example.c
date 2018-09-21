@@ -1,3 +1,5 @@
+// 維基百科的範例程式
+
 #include <stdio.h>
 
 #define QUEENS       8 /*皇后数量*/
